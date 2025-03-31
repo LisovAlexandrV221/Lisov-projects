@@ -1,0 +1,143 @@
+{
+    "@type": "Hotel",
+    "@context": "https://schema.org",
+    "name": "Пекин",
+    "url": "https://otello.ru/hotel/4504127908391078",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Москва",
+        "streetAddress": "Большая Садовая улица, 5",
+        "addressCountry": {
+            "@type": "Country",
+            "name": "RU"
+        }
+    },
+    "image": "https://i3.photo.2gis.com/photo-gallery/5b529a32-f923-4968-b667-8c66e8889ce4.jpg",
+    "hasMap": "https://otello.ru/hotel/4504127908391078",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 55.768739,
+        "longitude": 37.593943
+    },
+    "starRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.6,
+        "ratingCount": 1060,
+        "bestRating": 5,
+        "worstRating": 1
+    },
+    "checkinTime": "14:00",
+    "checkoutTime": "12:00",
+    "description": "Отель Пекин 4*, Москва, Большая Садовая улица, 5: отзывы об отеле, фото номеров, цены и правила проживания. Выбирайте подходящие предложения и бронируйте c гарантией заселения на Отелло",
+    "amenityFeature": [
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Wi-Fi"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Парковка"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Кондиционер в номерах"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Тренажёрный зал"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Трансфер (платный)"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Завтрак"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Телевизор"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Холодильник"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Сейф"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Звукоизоляция"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Фен"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Халат"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Утюг"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Тапочки"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Круглосуточная стойка регистрации"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Прачечная"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Сейф"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Хранение багажа"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Конференц-зал"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Английский"
+        },
+        {
+            "@type": "LocationFeatureSpecification",
+            "value": "http://schema.org/True",
+            "name": "Китайский"
+        }
+    ]
+}

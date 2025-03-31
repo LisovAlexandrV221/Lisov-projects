@@ -1,0 +1,1449 @@
+{
+    "search_id": "bb309dbc-8775-438b-97f6-515959c118a3",
+    "stop": false,
+    "locations": {
+        "12153": {
+            "seasons": {},
+            "name": "Москва",
+            "country_name": "Россия",
+            "country_id": 186,
+            "declensions": {
+                "1": "Москва",
+                "2": "Москвы",
+                "3": "Москве",
+                "4": "Москву",
+                "5": "Москвой",
+                "6": "Москве",
+                "7": "в Москве"
+            },
+            "property_types_count": {
+                "by_types": {
+                    "0": 37,
+                    "1": 670,
+                    "2": 18,
+                    "3": 5,
+                    "4": 1633,
+                    "5": 1,
+                    "6": 28,
+                    "7": 109
+                },
+                "total": 2501
+            },
+            "timezone": "Europe/Moscow",
+            "iatas": [],
+            "center_coords": {
+                "lat": 55.75204,
+                "lon": 37.617508
+            },
+            "full_name": "Москва, Россия",
+            "pois_ids": [],
+            "latin_name": "Moscow",
+            "latin_country_name": "Russia",
+            "id": 12153,
+            "zones": [
+                "eurasia",
+                "asia",
+                "europe"
+            ],
+            "state_code": "",
+            "code": "MOW",
+            "country_code": "RU",
+            "latin_full_name": "Moscow, Russia",
+            "path": "186.1416794.12153",
+            "parents_names": "Россия",
+            "type": "City"
+        }
+    },
+    "districts": {},
+    "filters": {
+        "counters": null
+    },
+    "hotels_amenities": {},
+    "total_hotels": 9163,
+    "filtered_hotels": 9163,
+    "hotels": [
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 9206,
+            "address": "Измайловское шоссе 71 строение 3В",
+            "name": "Отель Вега Измайлово",
+            "location_id": 12153,
+            "photos_ids": [
+                "7489913361",
+                "8352837505",
+                "8352837517",
+                "7489912810",
+                "8352837500",
+                "8352837498",
+                "7489913938",
+                "8352837516",
+                "7489912430",
+                "8352837508",
+                "7489912401",
+                "7489912399",
+                "7489914609",
+                "7489912834",
+                "7489912406",
+                "8352837496",
+                "7489914594",
+                "8352837491",
+                "7489912773",
+                "8352837597",
+                "7489914618",
+                "7489912829",
+                "7489912885",
+                "7489914214"
+            ],
+            "minprice": 46,
+            "property_type": "HOTEL",
+            "rating": 9,
+            "stars": 4,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 2268,
+            "locations_distances": {},
+            "reviews_count": 15712,
+            "pois_distances": {
+                "69873": 35331,
+                "69874": 42911,
+                "69885": 28394,
+                "71907": 2167,
+                "71949": 2095,
+                "71955": 1368,
+                "71996": 1925,
+                "72010": 291,
+                "313586": 1604,
+                "325548": 34937
+            },
+            "description": "",
+            "location": {
+                "lat": 55.790752,
+                "lon": 37.747135
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1416636
+            ],
+            "chain": "Best Inns",
+            "scoring": {},
+            "id": 333570,
+            "popularity": 16804,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                6,
+                14,
+                18,
+                4,
+                12,
+                17,
+                1,
+                5,
+                9,
+                10,
+                11,
+                0,
+                3
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "popular",
+                        "popularity": 4
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "comfort",
+                        "popularity": 7.661253
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "business",
+                        "popularity": 2.332298
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "metro",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "transport",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "city",
+                        "popularity": 7.559006
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "view",
+                        "popularity": 8.884956
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "building",
+                        "popularity": 4.743697
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.2766292
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 72010,
+                "train_station": 313586
+            },
+            "address_parent_ids": [
+                1491124,
+                1416636,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 61,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 15712,
+            "best_photo_weight": 2.875021,
+            "trending_speed": 0,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 3164,
+            "address": "Ул. Щепкина 32, стр.1",
+            "name": "Sunflower Авеню Отель Москва",
+            "location_id": 12153,
+            "photos_ids": [
+                "8693498484",
+                "8693498482",
+                "8693498477",
+                "8693498483",
+                "8693498462",
+                "7630676303",
+                "8693498486",
+                "8693498469",
+                "7630676302",
+                "8693498470",
+                "8693498466",
+                "8693498465",
+                "8693498458",
+                "8693498472",
+                "8693498473",
+                "8693498471",
+                "8693498457",
+                "8693498488",
+                "8693498464",
+                "8693498467",
+                "8693498481",
+                "8693498480",
+                "8693498460",
+                "7630676299"
+            ],
+            "minprice": 35,
+            "property_type": "HOTEL",
+            "rating": 8.9,
+            "stars": 3,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 1399,
+            "locations_distances": {},
+            "reviews_count": 3195,
+            "pois_distances": {
+                "69873": 28861,
+                "69874": 43984,
+                "69885": 24658,
+                "71755": 1045,
+                "71788": 967,
+                "71913": 331,
+                "71928": 825,
+                "71954": 1387,
+                "313548": 1665,
+                "313584": 1814,
+                "313585": 1449,
+                "313599": 1684,
+                "313613": 3037,
+                "325548": 39743
+            },
+            "description": "",
+            "location": {
+                "lat": 55.7796,
+                "lon": 37.62982
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1667834,
+                1676723
+            ],
+            "chain": "",
+            "scoring": {},
+            "id": 1198039,
+            "popularity": 16803,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                4,
+                6,
+                10,
+                12,
+                14,
+                18,
+                0,
+                3
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "metro",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "transport",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "city",
+                        "popularity": 4.1770186
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.2280583
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 71913,
+                "train_station": 313585
+            },
+            "address_parent_ids": [
+                1667834,
+                1676723,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 57,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 3195,
+            "best_photo_weight": 2.7459562,
+            "trending_speed": 0.89,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 5594,
+            "address": "Русаковская ул.24",
+            "name": "Холидей Инн Москва Сокольники",
+            "location_id": 12153,
+            "photos_ids": [
+                "7972531316",
+                "7949733813",
+                "7862423210",
+                "7914119509",
+                "7862423133",
+                "8006754987",
+                "7925001824",
+                "7885035225",
+                "7885035234",
+                "7885035233",
+                "8006755070",
+                "7862423200",
+                "7885035224",
+                "7885035138",
+                "7885035157",
+                "7925001819",
+                "7862423120",
+                "7925001718",
+                "7862423129",
+                "7862423094",
+                "7765479791",
+                "7914119426",
+                "7949733725",
+                "7794748972"
+            ],
+            "minprice": 53,
+            "property_type": "HOTEL",
+            "rating": 9,
+            "stars": 4,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 1855,
+            "locations_distances": {},
+            "reviews_count": 9624,
+            "pois_distances": {
+                "69873": 31827,
+                "69874": 43714,
+                "69885": 25792,
+                "71854": 2101,
+                "71908": 1246,
+                "71950": 1680,
+                "72006": 172,
+                "72035": 1701,
+                "313548": 1999,
+                "313584": 1860,
+                "313585": 2207,
+                "313599": 2165,
+                "313613": 3492,
+                "325548": 37801
+            },
+            "description": "",
+            "location": {
+                "lat": 55.78769,
+                "lon": 37.68033
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1416636
+            ],
+            "chain": "",
+            "scoring": {},
+            "id": 333559,
+            "popularity": 16802,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                20,
+                3,
+                10,
+                14,
+                18,
+                0,
+                8,
+                9,
+                5,
+                12,
+                17,
+                1,
+                4,
+                6
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "popular",
+                        "popularity": 9
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "luxury",
+                        "popularity": 3.152174
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "comfort",
+                        "popularity": 6.0533643
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "business",
+                        "popularity": 2.2298136
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "view",
+                        "popularity": 0
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.2625914
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 72006,
+                "train_station": 313584
+            },
+            "address_parent_ids": [
+                1416636,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 71,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 9624,
+            "best_photo_weight": 2.6529758,
+            "trending_speed": 0.18,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 4626,
+            "address": "Улица Верхняя Красносельская, 11а-4",
+            "name": "Хилтон Гарден Инн Москва Красносельская",
+            "location_id": 12153,
+            "photos_ids": [
+                "8725235261",
+                "8725235254",
+                "8725235256",
+                "8725235249",
+                "8725235265",
+                "8725235231",
+                "8725235235",
+                "8725235255",
+                "8725235253",
+                "7921502722",
+                "8801769572",
+                "8801769542",
+                "8801769541",
+                "8801769563",
+                "7921502724",
+                "8801769564",
+                "8725235244",
+                "7921502726",
+                "7921502723",
+                "8725235243",
+                "8725235218",
+                "8725235226",
+                "8375761217",
+                "8340216616"
+            ],
+            "minprice": 55,
+            "property_type": "HOTEL",
+            "rating": 9.1,
+            "stars": 4,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 486,
+            "locations_distances": {},
+            "reviews_count": 4499,
+            "pois_distances": {
+                "69873": 30787,
+                "69874": 43771,
+                "69885": 25364,
+                "71854": 1210,
+                "71908": 587,
+                "71913": 1866,
+                "72006": 1162,
+                "72035": 1711,
+                "313548": 1056,
+                "313584": 972,
+                "313585": 1205,
+                "313599": 1259,
+                "313613": 2945,
+                "325548": 38447
+            },
+            "description": "",
+            "location": {
+                "lat": 55.78481,
+                "lon": 37.66283
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1667837,
+                1676723
+            ],
+            "chain": "",
+            "scoring": {},
+            "id": 1704466136,
+            "popularity": 16801,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                17,
+                18,
+                0,
+                1,
+                5,
+                6,
+                9,
+                14,
+                3,
+                4,
+                10,
+                11
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "modern",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "city",
+                        "popularity": 5.967742
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.2162018
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 71908,
+                "train_station": 313584
+            },
+            "address_parent_ids": [
+                1667837,
+                1676723,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 65,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 4499,
+            "best_photo_weight": 2.7164078,
+            "trending_speed": 0.69,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 4999,
+            "address": "Русаковская ул.13/5",
+            "name": "Отель Бородино",
+            "location_id": 12153,
+            "photos_ids": [
+                "7761510695",
+                "7504780382",
+                "7760836716",
+                "7504786327",
+                "7504780412",
+                "7504783932",
+                "7504785440",
+                "7504785076",
+                "8185002642",
+                "7760836772",
+                "7504784718",
+                "7504780571",
+                "7504781225",
+                "7504781337",
+                "7504786668",
+                "7504786667",
+                "7504781215",
+                "7504781988",
+                "7504781113",
+                "8185002635",
+                "7504782973",
+                "7504781099",
+                "7504783452",
+                "7504780292"
+            ],
+            "minprice": 47,
+            "property_type": "HOTEL",
+            "rating": 8.9,
+            "stars": 4,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 918,
+            "locations_distances": {},
+            "reviews_count": 4871,
+            "pois_distances": {
+                "69873": 31225,
+                "69874": 43546,
+                "69885": 25750,
+                "71854": 1507,
+                "71908": 658,
+                "71950": 2075,
+                "72006": 687,
+                "72035": 1415,
+                "313548": 1398,
+                "313584": 1263,
+                "313585": 1603,
+                "313599": 1570,
+                "313613": 3011,
+                "325548": 37964
+            },
+            "description": "",
+            "location": {
+                "lat": 55.78458,
+                "lon": 37.6724
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1667837,
+                1676723
+            ],
+            "chain": "Synxis Corporation",
+            "scoring": {},
+            "id": 333572,
+            "popularity": 16800,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                3,
+                8,
+                9,
+                18,
+                0,
+                4,
+                6,
+                1,
+                14,
+                17,
+                5,
+                12,
+                20
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "comfort",
+                        "popularity": 2.8375869
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "transport",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "city",
+                        "popularity": 11.863354
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "wellness",
+                        "popularity": 1.7173913
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.212328
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 71908,
+                "train_station": 313584
+            },
+            "address_parent_ids": [
+                1667837,
+                1676723,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 66,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 4871,
+            "best_photo_weight": 2.7383218,
+            "trending_speed": 0.39,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 6463,
+            "address": "Ленинградский Проспект 37, корпус 8",
+            "name": "ibis Москва Динамо",
+            "location_id": 12153,
+            "photos_ids": [
+                "7630677409",
+                "8793151888",
+                "8863392105",
+                "8863392092",
+                "8819943508",
+                "8863392094",
+                "6341787119",
+                "8705558558",
+                "8814737837",
+                "7630677412",
+                "8863392093",
+                "8819943509",
+                "8863392096",
+                "7630677410",
+                "8705558555",
+                "8863392097",
+                "8819943505",
+                "8705558544",
+                "8863392103",
+                "8863392101",
+                "7630677411",
+                "8705558547",
+                "8705558543",
+                "8705558559"
+            ],
+            "minprice": 39,
+            "property_type": "HOTEL",
+            "rating": 8.7,
+            "stars": 3,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 1215,
+            "locations_distances": {},
+            "reviews_count": 6839,
+            "pois_distances": {
+                "69873": 26286,
+                "69874": 47594,
+                "69885": 20896,
+                "71800": 2278,
+                "71846": 969,
+                "71856": 2103,
+                "71872": 2326,
+                "71925": 1096,
+                "313547": 2793,
+                "313605": 2967,
+                "323310": 4489,
+                "325548": 44997
+            },
+            "description": "",
+            "location": {
+                "lat": 55.7924,
+                "lon": 37.54347
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1467379
+            ],
+            "chain": "",
+            "scoring": {},
+            "id": 44463003,
+            "popularity": 16799,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                1,
+                3,
+                4,
+                17,
+                0,
+                6,
+                10,
+                12,
+                14,
+                18,
+                5
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "modern",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "business",
+                        "popularity": 2.6397514
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "city",
+                        "popularity": 6.5341616
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.172786
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "beach": 323310,
+                "metro_station": 71846,
+                "train_station": 313547
+            },
+            "address_parent_ids": [
+                1467379,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 57,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 6839,
+            "best_photo_weight": 2.7604616,
+            "trending_speed": 0.25,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 9633,
+            "address": "Ulitsa Kosmonavta Volkova 6А",
+            "name": "Арт Москва Войковская",
+            "location_id": 12153,
+            "photos_ids": [
+                "9525299954",
+                "9525299955",
+                "9525299950",
+                "9525299949",
+                "8259929033",
+                "8259929028",
+                "8259929025",
+                "8259929024",
+                "9525299959",
+                "9525299958",
+                "9525299947",
+                "9525299945",
+                "8740864122",
+                "8740864159",
+                "8740864124",
+                "9525299952",
+                "8740864160",
+                "8259929023",
+                "8259929026",
+                "8740864161",
+                "8873350468",
+                "8873350466",
+                "8740864162",
+                "9080429661"
+            ],
+            "minprice": 42,
+            "property_type": "HOTEL",
+            "rating": 8.8,
+            "stars": 4,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 728,
+            "locations_distances": {},
+            "reviews_count": 2343,
+            "pois_distances": {
+                "69873": 27341,
+                "69874": 50748,
+                "69885": 17831,
+                "71800": 1147,
+                "71924": 2702,
+                "71925": 2092,
+                "71960": 3214,
+                "72012": 1017,
+                "305611": 3083,
+                "323310": 2494,
+                "325548": 48012,
+                "342824": 3164
+            },
+            "description": "",
+            "location": {
+                "lat": 55.8153,
+                "lon": 37.51274
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1467379
+            ],
+            "chain": "",
+            "scoring": {},
+            "id": 1899369125,
+            "popularity": 16798,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                0,
+                3,
+                10,
+                14,
+                18,
+                17,
+                1,
+                4,
+                5,
+                6,
+                12
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "modern",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "designer",
+                        "popularity": 5.4
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.1888375
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "beach": 323310,
+                "metro_station": 72012
+            },
+            "address_parent_ids": [
+                1467379,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 60,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 2343,
+            "best_photo_weight": 2.7759693,
+            "trending_speed": 2.78,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 9291,
+            "address": "Измайловское шоссе 71 корпус А",
+            "name": "Гостиница Альфа Измайлово",
+            "location_id": 12153,
+            "photos_ids": [
+                "7487223299",
+                "7761608657",
+                "7761609184",
+                "7761609027",
+                "7742024398",
+                "7761609012",
+                "7761608683",
+                "7761609404",
+                "1553953124",
+                "7761609405",
+                "1553954032",
+                "7761609290",
+                "7761608682",
+                "7761609158",
+                "1553954852",
+                "7761609211",
+                "1553953558",
+                "1553953313",
+                "7487222750",
+                "7487218881",
+                "7487223392",
+                "779478767",
+                "7742024373",
+                "615381664"
+            ],
+            "minprice": 38,
+            "property_type": "HOTEL",
+            "rating": 8.6,
+            "stars": 4,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 2567,
+            "locations_distances": {},
+            "reviews_count": 18605,
+            "pois_distances": {
+                "69873": 35390,
+                "69874": 42772,
+                "69885": 28578,
+                "71907": 2003,
+                "71949": 2271,
+                "71955": 1497,
+                "71996": 2021,
+                "72010": 152,
+                "313586": 1726,
+                "325548": 34755
+            },
+            "description": "",
+            "location": {
+                "lat": 55.789787,
+                "lon": 37.74955
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1416636
+            ],
+            "chain": "Synxis Corporation",
+            "scoring": {},
+            "id": 276236,
+            "popularity": 16797,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                18,
+                1,
+                11,
+                14,
+                17,
+                0,
+                3,
+                4,
+                5,
+                10,
+                12,
+                6,
+                9
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "popular",
+                        "popularity": 2
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "business",
+                        "popularity": 4.4844723
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "restaurants",
+                        "popularity": 2.523077
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "metro",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "transport",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "city",
+                        "popularity": 7.968944
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "view",
+                        "popularity": 6.256637
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.195934
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 72010,
+                "train_station": 313586
+            },
+            "address_parent_ids": [
+                1491124,
+                1416636,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 57,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 18605,
+            "best_photo_weight": 2.8815997,
+            "trending_speed": 0,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 7814,
+            "address": "Улица Мневники, 3, стр. 2",
+            "name": "Москоу Холидэй Отель",
+            "location_id": 12153,
+            "photos_ids": [
+                "7499262649",
+                "7499265095",
+                "7925002564",
+                "7499260635",
+                "7499271506",
+                "7499270578",
+                "7499265312",
+                "7760411489",
+                "7862424473",
+                "7499269215",
+                "7499274490",
+                "7760411499",
+                "7499273406",
+                "7499273652",
+                "7499268484",
+                "7499271940",
+                "7499267248",
+                "7499266668",
+                "7499272981",
+                "7499274188",
+                "7819812096",
+                "7819812097",
+                "7885035773",
+                "7819812090"
+            ],
+            "minprice": 33,
+            "property_type": "HOTEL",
+            "rating": 8.3,
+            "stars": 4,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 413,
+            "locations_distances": {},
+            "reviews_count": 3282,
+            "pois_distances": {
+                "69873": 22981,
+                "69874": 47199,
+                "69885": 22025,
+                "71760": 3242,
+                "71856": 2899,
+                "71872": 1236,
+                "71924": 2236,
+                "71942": 3329,
+                "325548": 46294
+            },
+            "description": "",
+            "location": {
+                "lat": 55.77373,
+                "lon": 37.49912
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1667879
+            ],
+            "chain": "Synxis Corporation",
+            "scoring": {},
+            "id": 276243,
+            "popularity": 16796,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                1,
+                6,
+                8,
+                10,
+                5,
+                18,
+                20,
+                0,
+                12,
+                17,
+                4,
+                9,
+                14
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "city",
+                        "popularity": 14.015528
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.1297414
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 71872
+            },
+            "address_parent_ids": [
+                1667879,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 53,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 3282,
+            "best_photo_weight": 2.8965201,
+            "trending_speed": 1.59,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 1710,
+            "address": "улица Покровка, д. 6, Москва",
+            "name": "Покровка 6 Отель",
+            "location_id": 12153,
+            "photos_ids": [
+                "8734876847",
+                "8734876854",
+                "8734876866",
+                "8734876856",
+                "8734876872",
+                "8184857675",
+                "8184857686",
+                "8184857671",
+                "8734876864",
+                "9418075514",
+                "8734876874",
+                "8184857691",
+                "8734876852",
+                "8734876890",
+                "8734876904",
+                "8170272403",
+                "8184857669",
+                "8184857688",
+                "9418075517",
+                "8154920391",
+                "8734876860",
+                "8734876862",
+                "8734876888",
+                "8734876901"
+            ],
+            "minprice": 38,
+            "property_type": "HOTEL",
+            "rating": 9.6,
+            "stars": 3,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 326,
+            "locations_distances": {},
+            "reviews_count": 0,
+            "pois_distances": {
+                "69873": 27938,
+                "69874": 41548,
+                "69885": 27033,
+                "71763": 920,
+                "71769": 892,
+                "71774": 714,
+                "71875": 706,
+                "71884": 806,
+                "313548": 2121,
+                "313584": 2216,
+                "313585": 2002,
+                "313599": 1919,
+                "313613": 1147,
+                "325548": 37790
+            },
+            "description": "",
+            "location": {
+                "lat": 55.75873,
+                "lon": 37.64204
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1667836,
+                1676723
+            ],
+            "chain": "",
+            "scoring": {},
+            "id": 1898005746,
+            "popularity": 16795,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                1,
+                4,
+                6,
+                10,
+                12,
+                14,
+                18
+            ],
+            "badges": null,
+            "weights": {
+                "default": 2.1378424
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 71875,
+                "train_station": 313613
+            },
+            "address_parent_ids": [
+                1667836,
+                1676723,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 56,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 2272,
+            "best_photo_weight": 2.762923,
+            "trending_speed": 0,
+            "debug_info": ""
+        }
+    ],
+    "proposals": {},
+    "property_types": {},
+    "gates": {},
+    "proposals_options": {},
+    "hotels_map": {},
+    "trustyou": {},
+    "hotels_suggests": [],
+    "hotels_by_id": {},
+    "room_types": {},
+    "discounts": {},
+    "expire_at": "1740847605",
+    "ttl": 2698,
+    "selected_hotels_ids": []
+}
